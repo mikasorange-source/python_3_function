@@ -1,4 +1,4 @@
-# python_function
+# python_3_function
 
 Pythonの基礎学習として作成したプログラム集です。  
 現在は **簡易家計簿アプリ** と **クイズゲーム** を収録しています。
